@@ -1,0 +1,6 @@
+.header{
+    background: url('../../assets/header_img.png');
+}
+.header-contents{
+    animation: fadeIn 3s;
+}
